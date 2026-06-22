@@ -14,7 +14,7 @@ I build resilient infrastructure with Docker Swarm, Quarkus, and PostgreSQL — 
 
 ### 🏢 Quavon
 
-Together with [Aaron](https://d-aaron.dev) I co-founded **Quavon** — a company focused on modern infrastructure, platform engineering, and resilient systems that scale. We also build production-grade Next.js frontends and ship web projects for teams that need reliability, not just a template.
+Together with [Aaron](https://github.com/rgxdev) I co-founded **Quavon** — a company focused on modern infrastructure, platform engineering, and resilient systems that scale. We also build production-grade Next.js frontends and ship web projects for teams that need reliability, not just a template.
 
 > From Docker Swarm orchestration to PostgreSQL high-availability and Next.js frontends — Quavon delivers systems that hold up under pressure.
 
@@ -66,7 +66,6 @@ Together with [Aaron](https://d-aaron.dev) I co-founded **Quavon** — a company
 ### 📫 Find me
 
 [![Website](https://img.shields.io/badge/quavon.de-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quavon.de)
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/MadebyLeopold/portfolio)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/madebyleopold)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@quavon.de)
 
