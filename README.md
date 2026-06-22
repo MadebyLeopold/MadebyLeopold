@@ -2,9 +2,9 @@
 
 # Hi, I'm Leopold 👋
 
-**Co-founder of [Quavon](https://quavon.de)** · Platform & full-stack engineer · Live audio engineer
+**Co-founder of [Quavon](https://quavon.de)** · Platform & full-stack engineer
 
-I build resilient infrastructure with Docker Swarm, Quarkus, and PostgreSQL — and ship clean frontends with Next.js. Outside the terminal I run FOH for concerts and events.
+I build resilient infrastructure with Docker Swarm, Quarkus, and PostgreSQL — and ship clean frontends with Next.js.
 
 🌐 [quavon.de](https://quavon.de) · 📍 Rosenheim, Germany · ✉️ [contact@quavon.de](mailto:contact@quavon.de)
 
@@ -26,8 +26,7 @@ Together with [Aaron](https://d-aaron.dev) I co-founded **Quavon** — a company
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/quarkus-%234695EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Traefik](https://img.shields.io/badge/traefik-%2300ACC1.svg?style=for-the-badge&logo=traefik&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -48,21 +47,9 @@ Together with [Aaron](https://d-aaron.dev) I co-founded **Quavon** — a company
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
-### 🎚 Live audio
-
-When I'm not wrangling containers or tuning databases, I'm behind a mixing console.
-
-- 🎛️ **Front of House** — running FOH for concerts and club nights, balancing the room
-- 🎧 **Monitor engineering** — dialing in stage monitors and IEM mixes
-- 🔊 **PA system design & tuning** — spec, deploy, and tune venue systems
-- 🎤 **Stage setup & patching** — mic placement, signal flow, XLR routing
-
-> Live sound, no second takes.
-
 ### 🤝 Currently
 
 - 🟢 Available for new projects — infrastructure, platform work, Next.js frontends
-- 🎪 Organizing events where technology, live music, and community intersect
 
 ---
 
